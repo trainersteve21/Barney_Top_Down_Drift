@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local save data (generated at runtime)
+savegame.json
+
+# pygbag web build output / cache
+build/
+web-cache/
+*.apk
+*.tar.gz
+
+# Dev / test
+_smoketest.py
